@@ -1,4 +1,4 @@
-### Hi there 👋
+👋
 
 <!--
 **sjh9391985/sjh9391985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
