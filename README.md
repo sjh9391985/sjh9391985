@@ -1,2 +1,3 @@
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjh9391985@gmail.com)](mailto:sjh9391985@gmail.com)
 
-<a href="https://amind2020.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+[![Tech Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=&link=https://amind2020.tistory.com//)](https://amind2020.tistory.com//)
