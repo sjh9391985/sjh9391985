@@ -1,6 +1,6 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=60)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=60)
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjh9391985&&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjh9391985&layout=compact&theme=merko)
 
