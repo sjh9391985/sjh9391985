@@ -7,9 +7,9 @@
 
 ```javascript
 const JaeHyeon = {
-    nickName: "JaeHyeon",
-    Tech stacks :["html5", "css3" , "scss", "Javascript", "React", "Svelte", "JAVA", "Spring"]
-    2022 interests: ["Svelte"]
+    nickName : "JaeHyeon",
+    Tech stacks : ["html5", "css3" , "scss", "Javascript", "React", "Svelte", "JAVA", "Spring"]
+    2022 Interests : ["Svelte"]
 }
 ```
 
