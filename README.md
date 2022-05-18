@@ -9,7 +9,7 @@
 const JaeHyeon = {
     nickName : "JaeHyeon",
     Tech stacks : ["html5", "css3" , "scss", "Javascript", "React", "Svelte", "JAVA", "Spring"]
-    2022 Interests : ["Svelte"]
+    2022 Interests : ["IOS App Develop"]
 }
 ```
 
