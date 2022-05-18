@@ -8,7 +8,7 @@
 ```javascript
 const JaeHyeon = {
     nickName : "JaeHyeon",
-    Tech stacks : ["html5", "css3" , "scss", "Javascript", "React", "Svelte", "JAVA", "Spring"]
+    Tech stacks : ["html5", "css3" , "scss", "Javascript", "React", "JAVA", "Spring Boot", "MySQL", "Maria DB", "Git"]
     2022 Interests : ["IOS App Develop"]
 }
 ```
