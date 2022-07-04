@@ -1,6 +1,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=60) -->
-## Hello~ I'm JaeHyeon, Junior Developer! 👨‍💻
+<!-- ## Hi! I'm JaeHyeon! -->
+<!-- ## Junior Developer 👨‍💻 -->
 
 <!--
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
