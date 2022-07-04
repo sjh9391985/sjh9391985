@@ -3,6 +3,7 @@
 ## Hi! I'm JaeHyeon!
 ## Junior Developer 👨‍💻
 
+<!--
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -12,6 +13,7 @@ const JaeHyeon = {
     2022 Interests : ["C++ & Algorithm"]
 }
 ```
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjh9391985&&show_icons=true&theme=merko)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjh9391985&layout=compact&theme=merko) -->
