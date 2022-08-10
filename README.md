@@ -12,7 +12,9 @@
 
 #### *✨ Contect *
 [![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjh9391985@gmail.com)](mailto:sjh9391985@gmail.com)
-[Resume]([https://sedate-virgo-f36.notion.site/Resume-e76257d561f2416e8dd8d271252bc6b5](https://sjh9391985.github.io/))
+
+
+[Resume](sjh9391985.github.io)
 
 
 
