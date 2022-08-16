@@ -2,7 +2,7 @@
 
 - 🌊  *** I'm working on a Douzone ICT Company
 - 📈  *** I'm currently learning typescript and springboot including JPA and AWS.
-- 👯  *** I'm looking to collaborate on web/app projects.*** 
+- 👯  *** I'm looking to collaborate on web/app projects.
 
 #### *✨ Son GitHub status*
 ![son's Github Status](https://github-readme-stats.vercel.app/api?username=sjh9391985&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
