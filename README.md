@@ -15,6 +15,7 @@
 
 
 📃[Resume](https://sjh9391985.github.io/)
+📘[Blog](https://velog.io/@sjh9391985)
 
 
 
