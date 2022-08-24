@@ -1,7 +1,7 @@
 ### 🔆 I'm Son JaeHyeon and a full stack software engineer
 
 - 🌊  *** I'm working on a Douzone ICT Company
-- 📈  *** I'm currently learning typescript and springboot including JPA and AWS.
+- 📈  *** I'm currently learning GO and springboot including JPA and AWS.
 - 👯  *** I'm looking to collaborate on web/app projects.
 
 #### *✨ Son GitHub status*
