@@ -2,6 +2,7 @@
 
 - 🌊  *** I'm working on a Douzone ICT Company
 - 📈  *** I'm currently learning GO and springboot including JPA and AWS.
+- 😏 *** I'm currently interesting Kafka and Block chain tech
 - 👯  *** I'm looking to collaborate on web/app projects.
 
 #### *✨ Son GitHub status*
