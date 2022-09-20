@@ -1,4 +1,4 @@
-### 🔆 I'm Son JaeHyeon and a full stack software engineer
+### 🔆 I'm Son JaeHyeon and a Backend software engineer
 
 - 🌊  *** I'm working on a Douzone ICT Company
 - 📈  *** I'm currently learning Springboot including JPA and AWS.
