@@ -1,8 +1,8 @@
 ### 🔆 Hello~ I'm Son JaeHyeon
 
 - 🌊  *** I'm working on a Douzone ICT Company
-- 📈  *** I'm currently learning private blockchain
-- 😏 *** I'm currently interesting blockchain tech
+- 📈  *** I'm currently learning private blockchain & JPA
+- 😏  *** I'm currently interesting blockchain tech
 - 👯  *** I'm looking to collaborate on web/app projects.
 
 #### *✨ Son GitHub status*
@@ -16,8 +16,7 @@
 
 
 📃[Resume](https://sjh9391985.github.io/)
-📘[Blog-1](https://velog.io/@sjh9391985)
-📘[Blog-2](https://sjh9391985.tistory.com/)
+📘[Blog](https://sjh9391985.tistory.com/)
 
 
 
