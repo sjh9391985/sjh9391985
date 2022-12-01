@@ -5,7 +5,7 @@
 - 😏  *** I'm currently interesting blockchain tech
 - 👯  *** I'm looking to collaborate on web/app projects.
 
-#### *✨ Son GitHub status*
+#### *✨ Son's GitHub status*
 ![son's Github Status](https://github-readme-stats.vercel.app/api?username=sjh9391985&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjh9391985&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sjh9391985/github-readme-stats) 
