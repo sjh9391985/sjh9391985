@@ -1,6 +1,6 @@
 ### 🔆 Hello~ I'm Son JaeHyeon
 
-- 🌊  *** I'm working on a Douzone ICT Company
+- 🌊  *** I'm working on a Douzone ICT Company & Backend Developer
 - 📈  *** I'm currently learning private blockchain & JPA
 - 😏  *** I'm currently interesting blockchain tech
 - 👯  *** I'm looking to collaborate on web/app projects.
