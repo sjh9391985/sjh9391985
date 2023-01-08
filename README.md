@@ -2,7 +2,7 @@
 
 - 🌊  *** I'm working on a Douzone ICT Company & Backend Developer
 - 📈  *** I'm currently learning private blockchain & JPA
-- 😏  *** I'm currently interesting blockchain tech
+- 😏  *** I'm currently interesting JPA
 - 👯  *** I'm looking to collaborate on web/app projects.
 
 #### *✨ Son's GitHub status*
