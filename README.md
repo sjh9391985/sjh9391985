@@ -4,7 +4,7 @@
 - 📈  *** I'm currently learning private blockchain & JPA
 - 😏  *** I'm currently interesting JPA
 - 👯  *** I'm looking to collaborate on web/app projects.
-
+<!-- 
 #### *✨ Son's GitHub status*
 ![son's Github Status](https://github-readme-stats.vercel.app/api?username=sjh9391985&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
 
@@ -12,7 +12,7 @@
 
 
 #### *✨ Contect *
-[![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjh9391985@gmail.com)](mailto:sjh9391985@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjh9391985@gmail.com)](mailto:sjh9391985@gmail.com) -->
 
 
 📃[Resume](https://sjh9391985.github.io/)
