@@ -20,7 +20,7 @@
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=spring-batch-example&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=spring-batch-example">
-</picture>](https://github.com/sjh9391985?tab=repositories)
+</picture>](https://github.com/sjh9391985/spring-batch-example)
 </div>
 
 <!--
