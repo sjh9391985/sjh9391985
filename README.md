@@ -24,6 +24,22 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=awsservice&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=awsservice">
 </picture>](https://github.com/sjh9391985/awsservice)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=core&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=core">
+</picture>](https://github.com/sjh9391985/core)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=jblog&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=jblog">
+</picture>](https://github.com/sjh9391985/jblog)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=mysite&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=mysite">
+</picture>](https://github.com/sjh9391985/mysite)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=Spring_Todo_App&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=Spring_Todo_App">
+</picture>](https://github.com/sjh9391985/Spring_Todo_App)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=dart&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=dart">
+</picture>](https://github.com/sjh9391985/dart)
+
 </div>
 
 <!--
