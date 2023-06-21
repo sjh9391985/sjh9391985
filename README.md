@@ -21,6 +21,9 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=spring-batch-example&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=spring-batch-example">
 </picture>](https://github.com/sjh9391985/spring-batch-example)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=spring-oauth-sample&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=spring-oauth-sample">
+</picture>](https://github.com/sjh9391985/spring-oauth-sample)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=awsservice&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=sjh9391985&repo=awsservice">
 </picture>](https://github.com/sjh9391985/awsservice)
