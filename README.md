@@ -17,7 +17,7 @@
 
 --- 
 
-
+<!--
 <div align="center">
 
 ### Project / Study (less than 3 people)
