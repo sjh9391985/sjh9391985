@@ -16,4 +16,4 @@
 </p>
 
 > recently worked side project
-- 🛠 <a href="https://github.com/sjh9391985/recomend-place-by-location"/>위치 기반 추천 서비스</a>
+- 🛠 <a href="https://github.com/sjh9391985/recomend-place-by-location"/>위치 기반 추천 서비스 (24.02.12 ~ 24.03.10)</a>
