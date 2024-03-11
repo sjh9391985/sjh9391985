@@ -14,3 +14,6 @@
 <p align = "center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sjh9391985&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
+
+> recently worked side project
+- 🛠 <a href="https://github.com/sjh9391985/recomend-place-by-location"/>위치 기반 추천 서비스</a>
