@@ -17,6 +17,7 @@
 
 > recently worked side project
 - 🛠 <a href="https://github.com/sjh9391985/recomend-place-by-location"/>위치 기반 추천 서비스 (24.02.12 ~ 24.03.10)</a>
+- 🛠 <a href="https://github.com/sjh9391985/simple_sns_service"/>간단한 채팅 서비스 (24.03.11 ~ 24.04.30)</a>
 
 > work in progress
-- 🛠 <a href="https://github.com/sjh9391985/simple_sns_service"/>간단한 채팅 서비스 (24.03.11 ~ )</a>
+- ?
